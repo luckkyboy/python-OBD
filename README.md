@@ -9,7 +9,7 @@ Installation
 ------------
 
 ```Shell
-$ pip install obd
+$ pip install git+https://github.com/luckkyboy/python-OBD.git
 ```
 
 Basic Usage
